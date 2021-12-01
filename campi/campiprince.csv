@@ -1,0 +1,201 @@
+campo,desc
+$ADDETTO,addetto
+$ANNO_VERBALE,anno verbale
+$ATTIVITA_N,attivita n
+$CAP_ATTIVITA,cap attivita
+$CAP_CORRISPONDENZA,cap corrispondenza
+$CAP_PRESENTATORE,Cap dell'indirizzo del presentatore della richiesta
+$CAP_PROFESSIONISTA,Cap dell'indirizzo del professionista della richiesta
+$CAPOLUOGO_REG,capoluogo reg
+$CAP_SEDE_LEGALE,cap sede legale
+$CAP_TITOLARE,cap titolare
+$CATEGORIA_N,categoria n
+$CAUSALE_VOLTURA,Causale dell Voltura
+$CF_PRESENTATORE,Cod. Fiscale del presentatore della richiesta
+$COD_ALBO_PROFESSIONISTA,Codice Albo del professionista della richiesta
+$CODICE_ATTIVITA,codice attivita
+$COD_PRATICA,codice pratica
+$COD_PRATICA_SU,codice pratica suap
+$COGNOME_ADDETTO,cognome addetto
+$COGNOME_COMANDANTE,cognome comandante
+$COGNOME_PRESENTATORE,Cognome del presentatore della richiesta
+$COGNOME_PROFESSIONISTA,Cognome del professionista della richiesta
+$COGNOME_DIRETTORE_REGIONALE,cognome direttore regionale
+$COGNOME_TITOLARE,cognome titolare
+$COMANDANTE,comandante
+$COMUNE_ATTIVITA,comune attivita
+$COMUNE_COMANDO,comune comando
+$COMUNE_CORRISPONDENZA,comune corrispondenza
+$COMUNE_PRESENTATORE,Comune dell'indirizzo del presentatore della richiesta
+$COMUNE_PROFESSIONISTA,Comune dell'indirizzo del professionista della richiesta
+$COMUNE_DIREZIONE,comune direzione
+$COMUNE_SEDE_LEGALE,comune sede legale
+$COMUNE_SUAP,comune suap
+$COMUNE_TITOLARE,comune titolare
+$CONTRAVVENTORE,contravventore
+$CONTRAVVENTORE_NOME,contravventore nome
+$DATA_ACQUISIZIONE,data acquisizione
+$DATA_ARRIVO_DIR_REG,data arrivo dir reg
+$DATA_ASSEGNAZIONE,data assegnazione
+$DATA_CONVOCAZIONE,data convocazione
+$DATA_CORRENTE,data corrente
+$DATA_CTR,data ctr
+$DATA_DEROGA,data deroga
+$DATA_ORA_CORRENTE,Data e ora corrente- momento della generazione della lettera/documento
+$DATA_PAGAMENTO,data pagamento
+$DATA_PARERE_CTR_1,data parere ctr 1
+$DATA_PARERE_CTR_2,data parere ctr 2
+$DATA_PARERE_CTR_3,data parere ctr 3
+$DATA_PROT_COMANDO,data protocollo comando
+$DATA_PROT_CMZ_SU,data protocollo comunicazione suap
+$DATA_PROT_DOC_INTEG_IN_1,data protocollo documentazione integrativa in 1
+$DATA_PROT_DOC_INTEG_IN_2,data protocollo documentazione integrativa in 2
+$DATA_PROT_DOC_INTEG_OUT_1,data protocollo documentazione integrativa out 1
+$DATA_PROT_DOC_INTEG_OUT_2,data protocollo documentazione integrativa out 2
+$DATA_PROT_MOD_1PG,data protocollo modello 1pg
+$DATA_PROT_MOD_3PG,data protocollo modello 3pg
+$DATA_PROT_MOD_5PG,data protocollo modello 5pg
+$DATA_PROT_MOD_6PG,data protocollo modello 6pg
+$DATA_PROT_PROG_COLLEGATO,data protocollo prog collegato
+$DATA_RICHIESTA,data richiesta
+$DATA_RICHIESTA_COMANDO,data richiesta comando
+$DATA_RICHIESTA_PROROGA,data richiesta proroga
+$DATA_RISPOSTA_ADDETTO,data risposta addetto
+$DATA_RISPOSTA_UFFICIO,data risposta ufficio
+$DATA_RR_MOD_3PG,data rr modello 3pg
+$DATA_SOSPENSIONE,data sospensione
+$DATA_VERIFICA,data verifica
+$DATI_PROFESSIONISTA,dati professionista
+$DENOMINAZIONE_SUAP,denominazione suap
+$DESCRIZIONE,descrizione
+$DESCRIZIONE_ATTIVITA,descrizione attivita
+$DESCRIZIONE_PARERE_CTR,descrizione parere ctr
+$DESCRIZIONE_RICHIESTA,descrizione richiesta
+$DESCRIZIONE_SITUAZIONE,descrizione situazione
+$DESCRIZ_PRESCRIZIONE,descriz prescrizione
+$DESCR_SPORTELLO_SUAP,descr sportello suap
+$DIRETTORE_REGIONALE,direttore regionale
+$DITTA,ditta
+$ELENCO_ADDETTI,elenco addetti
+$ELENCO_AMMENDE,elenco ammende
+$ELENCO_ATTIVITA,elenco attivita
+$ELENCO_COMANDI,elenco comandi
+$ELENCO_COMANDI,elenco comandi
+$ELENCO_COMPONENTI_CTR,elenco componenti ctr
+$ELENCO_COMPONENTI_ESTERNI,elenco componenti esterni
+$ELENCO_COMPONENTI_INTERNI,elenco componenti interni
+$ELENCO_CONTRAVVENTORI,elenco contravventori
+$ELENCO_CONTRAVVENTORI_COMPLETO,elenco contravventori completo
+$ELENCO_CONTRAVVENTORI_COMPLETO_PROROGA,elenco contravventori completo proroga
+$ELENCO_CONTRAVVENTORI_INADEMPIENTI,elenco contravventori inadempienti
+$ELENCO_CONTRAVVENTORI_PROROGA,elenco contravventori proroga
+$ELENCO_CONTRAVVENZIONI,elenco contravvenzioni
+$ELENCO_DATE_SCADENZA_SCIA,elenco date scadenza scia
+$ELENCO_IMPORTI_ATTIVITA,"Elenco degli importi delle attivita' di una richiesta. .Codice:Codice attivita, .Descrizione: approccio tecnico; .Descrizione2 importo"
+$ELENCO_DESCRIZIONE_SITUAZIONE,elenco descrizione situazione
+$ELENCO_DISPOSIZIONI_NORMATIVE,elenco disposizioni normative
+$ELENCO_ENTI_ESTERNI,elenco enti esterni
+$ELENCO_ESITO,elenco esito
+$ELENCO_ESTERNI,elenco esterni
+$ELENCO_INTERNI,elenco interni
+$ELENCO_MISURE_TECNICHE,elenco misure tecniche
+$ELENCO_MISURE_URGENTI,elenco misure urgenti
+$ELENCO_NOMINE_CTR,elenco nomine ctr
+$ELENCO_NOMINE_CTR_ARIR,elenco nomine ctr arir
+$ELENCO_NOMINE_CTR_DEROGHE,elenco nomine ctr deroghe
+$ELENCO_PAGAMENTI,elenco pagamenti
+$ELENCO_PAGAMENTI,elenco pagamenti
+$ELENCO_PRESCRIZIONI,elenco prescrizioni
+$ELENCO_PRESCRIZIONI,elenco prescrizioni
+$ELENCO_PRESCRIZIONI_ADEMPIUTE,elenco prescrizioni adempiute
+$ELENCO_PRESCRIZIONI_COMPETENZA,elenco prescrizioni competenza
+$ELENCO_PRESCRIZIONI_INADEMPIUTE,elenco prescrizioni inadempiute
+$ELENCO_PRESCRIZIONI_PARERE_CONTR,elenco prescrizioni parere contrario
+$ELENCO_PRESCRIZIONI_PARERE_FAV,elenco prescrizioni parere favorevole
+$ELENCO_PRESCRIZIONI_PARERE_FAV_CONDIZ,elenco prescrizioni parere favorevole condizionato
+$ELENCO_PROROGHE_AMMESSE,elenco proroghe ammesse
+$ELENCO_PROROGHE_NON_AMMESSE,elenco proroghe non ammesse
+$ELENCO_RICHIESTE_CTR,elenco richieste ctr
+$ELENCO_RISORSE,elenco risorse
+$ELENCO_SOSTANZE,elenco sostanze
+$ELENCO_TERMINI_ADEMPIMENTI,elenco termini adempimenti
+$ELENCO_VALUTAZ_RISCHIO_AGGIUNTIVO,elenco valutazione rischio aggiuntivo
+$ELENCO_VINCOLI_NORMATIVI,elenco vincoli normativi
+$EMAIL_ADDETTO,email addetto
+$EMAIL_COMANDO,email comando
+$EMAIL_CORRISPONDENZA,email corrispondenza
+$EMAIL_PRESENTATORE,Email del presentatore della richiesta
+$EMAIL_PROFESSIONISTA,Email del professionista della richiesta
+$EMAIL_DIREZIONE,email direzione
+$EMAIL_FUNZIONARIO,email funzionario
+$EMAIL_SEDE_LEGALE,email sede legale
+$EMAIL_TITOLARE,email titolare
+$FUNZIONARIO,funzionario
+$IMPORTI_ATTIVITA,importi attivita
+$IMPORTO_ORARIO,importo orario
+$IMPORTO_PG_ENTI,importo pg enti
+$IMPORTO_PG_VVF,importo pg vvf
+$IMPORTO_RICHIESTA,importo richiesta
+$IMPORTO_TRIBUTI,importo tributi
+$INDICAZIONI_INTERVENTO,Indicazioni Intervento - solo per richieste di Valutazione Progetto
+$INDIRIZZO_ATTIVITA,indirizzo attivita
+$INDIRIZZO_COMANDO,indirizzo comando
+$INDIRIZZO_CORRISPONDENZA,indirizzo corrispondenza
+$INDIRIZZO_PRESENTATORE,Indirizzo del presentatore della richiesta
+$INDIRIZZO_PROFESSIONISTA,Indirizzo del professionista della richiesta
+$INDIRIZZO_DEL_RESPONSABILE,indirizzo del responsabile
+$INDIRIZZO_DIREZIONE,indirizzo direzione
+$INDIRIZZO_DITTA,indirizzo ditta
+$INDIRIZZO_PROCEDIMENTO,indirizzo procedimento
+$INDIRIZZO_SEDE_LEGALE,indirizzo sede legale
+$INDIRIZZO_SUAP,indirizzo suap
+$INDIRIZZO_TITOLARE,indirizzo titolare
+$INFORMAZIONI_PROGETTO,Informazioni progetto - solo per richieste di Valutazione Progetto
+$INSEGNA,insegna
+$INTESTATARIO,intestatario
+$LEGALE_RAPPRESENTANTE,legale rappresentante
+$LEGALE_RAPPRESENTANTE_NOME,legale rappresentante nome
+$MANSIONE,mansione
+$MOTIVAZIONE_RICHIESTA,motivazione richiesta
+$NOME_ADDETTO,nome addetto
+$NOME_COMANDANTE,nome comandante
+$NOME_COMANDO,nome comando
+$NOME_PRESENTATORE,Nome del presentatore della richiesta
+$NOME_PROFESSIONISTA,Nome del professionista della richiesta
+$NOME_DIRETTORE_REGIONALE,nome direttore regionale
+$NOME_DIREZIONE,nome direzione
+$NOME_TITOLARE,nome titolare
+$NUM_CIVICO_ATTIVITA,numero civico attivita
+$NUM_CIVICO_CORRISPONDENZA,numero civico corrispondenza
+$NUM_CIVICO_PRESENTATORE,Numero civico dell'indirizzo del presentatore della richiesta
+$NUM_CIVICO_PROFESSIONISTA,Numero civico dell'indirizzo del professionista della richiesta
+$NUM_CIVICO_SEDE_LEGALE,numero civico sede legale
+$NUM_CIVICO_TITOLARE,numero civico titolare
+$NUM_DOC_REL_TECNICA,Numero documenti relazione tecnica
+$NUM_ELAB_GRAFICI,Numero elaborati grafici
+$NUM_FASCICOLO_PROCEDIMENTO,numero fascicolo procedimento
+$NUM_PRATICA,numero pratica
+$NUM_PROT_CMZ_SU,numero protocollo comunicazione suap
+$NUM_PROT_DEROGA,numero protocollo deroga
+$NUM_PROT_MOD_1PG,numero protocollo modello 1pg
+$NUM_PROT_MOD_3PG,numero protocollo modello 3pg
+$NUM_PROT_MOD_5PG,numero protocollo modello 5pg
+$NUM_PROT_MOD_6PG,numero protocollo modello 6pg
+$NUM_PROT_PROG_COLLEGATO,numero protocollo prog collegato
+$NUM_PROT_RICHIESTA,numero protocollo richiesta
+$NUM_PROT_RISPOSTA,numero protocollo risposta
+$NUM_VERBALE,numero verbale
+$PARERE_COMANDO_PROVINCIALE,parere comando provinciale
+$PEC_COMANDO,pec comando
+$PEC_CORRISPONDENZA,pec corrispondenza
+$PEC_PRESENTATORE,Pec del presentatore della richiesta
+$PEC_PROFESSIONISTA,Pec del professionista della richiesta
+$PEC_DIREZIONE,pec direzione
+$PEC_SEDE_LEGALE,pec sede legale
+$PEC_TITOLARE,pec titolare
+$PIN_UTENTE,pin utente
+$PRESIDENTE,presidente
+$PROT_COMANDO,protocollo comando
+$PROT_DIR_REG,protocollo dir reg
+$PROT_DOC_INTEG_IN_1,protocollo documentazione integrativa in 1
+$PROT_DOC_INTEG_IN_2,protocollo documentazione integrativa in 2
