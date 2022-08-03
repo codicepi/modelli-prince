@@ -1,5 +1,5 @@
-# Modelli PRINCE
-Modelli lettera applicativo PRINCE del Corpo nazionale dei Vigili del fuoco.
+# Modelli lettera PRINCE
 
-Per istruzioni sull'installazione, guarda dentro la cartella tutorial.
-Tutti i file sono creati con [Libreoffice](https://it.libreoffice.org/), la suite office libera e gratuita.
+Repository dei modelli di lettera per l'applicativo gestionale PRINCE del Corpo nazionale dei Vigili del fuoco.
+
+L'applicativo PRINCE gestisce i processi di prevenzione incendi, polizia giudiziaria ed aziende a rischio di incidente rilevante.
